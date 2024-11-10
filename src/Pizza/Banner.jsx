@@ -14,7 +14,7 @@ export default function Banner() {
                         <Carousel.Item interval={4000}>
                             <img
                                 className="d-block w-100"
-                                
+                                src={Numtwo}
                                 alt="First slide"
                             />
                             <Carousel.Caption>
